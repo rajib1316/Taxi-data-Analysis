@@ -7,9 +7,4 @@ Objectives:
 3.	Provide insights into fare distribution and trip distance across various locations.
 4.	Examine passenger count and payment type distribution for customer preference analysis.
 
-   🛠️ Tech Stack
-Technology	Purpose
-Power BI	Data modeling, DAX measures, visual reports
-DAX	Time intelligence and KPI calculations
-Power Query	Data cleaning and transformation
-Taxidata 	Sample business database used for analysis
+
